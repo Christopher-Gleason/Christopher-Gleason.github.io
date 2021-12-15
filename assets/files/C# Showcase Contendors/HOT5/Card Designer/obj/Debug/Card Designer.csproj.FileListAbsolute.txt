@@ -1,0 +1,20 @@
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\bin\Debug\Card Designer.exe.config
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\bin\Debug\Card Designer.exe
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\bin\Debug\Card Designer.pdb
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card Designer.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card_Designer.FormCardDesigner.resources
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card_Designer.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card Designer.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card Designer.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card Designer.exe
+C:\Users\chris\OneDrive\Desktop\C# Work\HOTS\HOT5\Card Designer\obj\Debug\Card Designer.pdb
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\bin\Debug\Card Designer.exe.config
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\bin\Debug\Card Designer.exe
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\bin\Debug\Card Designer.pdb
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card Designer.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card_Designer.FormCardDesigner.resources
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card_Designer.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card Designer.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card Designer.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card Designer.exe
+C:\Users\chris\OneDrive\Desktop\Mobirise Portfolio Content\C# Showcase Contendors\HOT5\Card Designer\obj\Debug\Card Designer.pdb

@@ -1,0 +1,115 @@
+body, html{
+    width: 1250px;
+    height: auto;
+}
+
+header {
+    display: block;
+    width: 100%;
+    height: 5em;
+    background-color: #0071c7;
+    margin-top: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    padding: 0.6em;
+}
+
+#navbar {
+    background-color:  #0071c7;
+    display: flex;
+    list-style: none;
+    align-self: center;
+    margin: 0;
+    padding-left: 0;
+}
+
+.button {
+    display: block;
+    background-color:#d4f3ff;
+    width: 8em;
+    height: 2.4em;
+    border:1px solid #222;
+}
+
+.button:hover {
+    display: block;
+    background-color: #222;
+    width: 8em;
+    height: 2.4em;
+    border:1px solid #222;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    width: 8em;
+    height: 2.4em;
+    color: #222;
+    text-align: center;
+    padding-top: 0.55em;
+}
+
+a:hover {
+    text-decoration: none;
+    display: block;
+    width: 8em;
+    height: 2.4em;
+    color: #d4f3ff;
+    text-align: center;
+}
+
+.currentBtn{
+    background-color: #222;
+    color: #d4f3ff;
+}
+
+.currentLink {
+    color: #d4f3ff;
+}
+
+.myPicture {
+    width:340px;
+    float: left;
+    padding-top: 0.2em;
+}
+
+.aboutText {
+    width: 700px;
+    float: left;
+    padding-top: 3em;
+}
+
+.selfPic {
+    display: block;
+    width: 275px;
+}
+
+.emailMe {
+    padding: 2em;
+    width: 22em;
+    height: 35em;
+}
+
+
+
+#name {
+    width: 18em;
+}
+
+#email {
+    padding: 0;
+    width: 21.5em;
+}
+
+.portfolio {
+    padding: 2em;
+}
+
+
+
+.inProgress {
+    font-size: 1.3em;
+    padding-left: 1em;
+}

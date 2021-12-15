@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function main() {
+
+            const MINSCORE = 0;
+            const MAXSCORE = 100;
+            const QUIT = 999;
+
+            let nGrade = 0;
+            let lGrade = "";
+
+            while (nGrade !== QUIT) {
+                nGrade = parseInt(prompt('Enter a grade between 0 and 100'));
+
+                while(isNaN(nGrade) || nGrade < MINSCORE || nGrade > MAXSCORE) {
+                    nGrade = parseInt(prompt('Grade must be a number between 0 and 100'));
+                }
+                    if (nGrade >= 90) {
+                        lGrade = ("A"); }
+                    else if (nGrade >= 80) {
+                        lGrade = ("B");  }
+                    else if (nGrade >= 68) {
+                        lGrade = ("C");  }
+                    else if (nGrade >= 60) {
+                        lGrade = ("D");  }
+                    else {
+                        lGrade = ("F");
+                    }
+
+                alert ("Your letter grade is: " + lGrade)
+                return;
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="submit" 
+    onclick="main();"
+    value="Run Program" />
+</body>
+</html>
